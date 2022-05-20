@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-kazcryptopay/static/css/main.3d4d2913.css",
+    "main.js": "/react-kazcryptopay/static/js/main.e48ff8cd.js",
+    "index.html": "/react-kazcryptopay/index.html",
+    "main.3d4d2913.css.map": "/react-kazcryptopay/static/css/main.3d4d2913.css.map",
+    "main.e48ff8cd.js.map": "/react-kazcryptopay/static/js/main.e48ff8cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d4d2913.css",
+    "static/js/main.e48ff8cd.js"
+  ]
+}
